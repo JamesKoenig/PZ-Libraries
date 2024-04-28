@@ -1,6 +1,6 @@
 # PZ-Libraries
 
-If you have trouble with the tutorial you can contact me on discord `Konijima#9279` or **open an issue**.  
+If you have trouble with the tutorial you can contact me on discord `konijima` or **open an issue**.  
 If you have **suggestion** you can **fork** and create a **pull request**.
 
 Hopefully I made this as easy as possible to understand.
